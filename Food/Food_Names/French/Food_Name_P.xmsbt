@@ -85,7 +85,7 @@
 		<text></text>
 	</entry>
 	<entry label="fd_sippai_ryouri">
-		<text>plats ratés</text>
+		<text>nourritures douteuses</text>
 	</entry>
 	<entry label="fd_barbeque">
 		<text></text>
@@ -121,7 +121,7 @@
 		<text>pain moisi</text>
 	</entry>
 	<entry label="fd_hamburg">
-		<text>steaks hachés</text>
+		<text>hamburgers au bœuf</text>
 	</entry>
 	<entry label="fd_pudding">
 		<text>flans</text>
@@ -175,7 +175,7 @@
 		<text></text>
 	</entry>
 	<entry label="fd_karaage">
-		<text>poulet frit</text>
+		<text>nuggets de poulet</text>
 	</entry>
 	<entry label="fd_melon">
 		<text>melon</text>
@@ -232,7 +232,7 @@
 		<text></text>
 	</entry>
 	<entry label="fd_jelly">
-		<text>gelée</text>
+		<text>gelées de slime</text>
 	</entry>
 	<entry label="fd_giri_choco">
 		<text>boîtes de chocolats</text>
@@ -316,7 +316,7 @@
 		<text>œufs durs</text>
 	</entry>
 	<entry label="fd_apple">
-		<text>pommes</text>
+		<text>pommes pour Baldi</text>
 	</entry>
 	<entry label="fd_sunflower_seeds">
 		<text>graines de tournesol</text>
@@ -343,7 +343,7 @@
 		<text>fish and chips</text>
 	</entry>
 	<entry label="fd_protein">
-		<text>boissons protéinées</text>
+		<text>Crit-a-colas</text>
 	</entry>
 	<entry label="fd_currypan">
 		<text></text>
@@ -397,13 +397,13 @@
 		<text></text>
 	</entry>
 	<entry label="fd_corn">
-		<text>épis de maïs</text>
+		<text>trombones</text>
 	</entry>
 	<entry label="fd_pekin_duck">
 		<text>canard laqué</text>
 	</entry>
 	<entry label="fd_black_forest_gateau">
-		<text>forêt noire</text>
+		<text>gâteaux diaboliques</text>
 	</entry>
 	<entry label="fd_saltimbocca">
 		<text>saltimbocca</text>
@@ -577,7 +577,7 @@
 		<text>gâteau d'anniversaire</text>
 	</entry>
 	<entry label="fd_cutlet">
-		<text>côtelettes</text>
+		<text>jambons de goblins</text>
 	</entry>
 	<entry label="fd_coleslaw">
 		<text></text>
@@ -799,7 +799,7 @@
 		<text>cheesecakes</text>
 	</entry>
 	<entry label="fd_potof">
-		<text>pot-au-feu</text>
+		<text>Curry de fruits de mer jaunes</text>
 	</entry>
 	<entry label="fd_lemonade">
 		<text>limonade</text>
@@ -814,10 +814,10 @@
 		<text>tiramisu</text>
 	</entry>
 	<entry label="fd_brussel_sprouts">
-		<text>choux de Bruxelles</text>
+		<text>Tomodachi Life</text>
 	</entry>
 	<entry label="fd_panini">
-		<text>paninis</text>
+		<text>steaks en CGI</text>
 	</entry>
 	<entry label="fd_fudge">
 		<text>fudges</text>
@@ -877,7 +877,7 @@
 		<text></text>
 	</entry>
 	<entry label="fd_cola">
-		<text>cola</text>
+		<text>Bepis</text>
 	</entry>
 	<entry label="fd_katudon">
 		<text></text>
@@ -1006,7 +1006,7 @@
 		<text>lait moisi</text>
 	</entry>
 	<entry label="fd_steak">
-		<text>steaks</text>
+		<text>steaks de golem</text>
 	</entry>
 	<entry label="fd_hot_chocolate">
 		<text>chocolats chauds</text>
@@ -1090,7 +1090,7 @@
 		<text>salade grecque</text>
 	</entry>
 	<entry label="fd_water">
-		<text>eau du robinet</text>
+		<text>larmes de Banshee</text>
 	</entry>
 	<entry label="fd_gingerbread">
 		<text>pain d'épices</text>
@@ -1156,7 +1156,7 @@
 		<text></text>
 	</entry>
 	<entry label="fd_waffle">
-		<text>gaufres</text>
+		<text>Belgique sur une assiette</text>
 	</entry>
 	<entry label="fd_roll_cabbage">
 		<text>choux farcis</text>
@@ -1192,7 +1192,7 @@
 		<text></text>
 	</entry>
 	<entry label="fd_potato_chips">
-		<text>chips</text>
+		<text>Doritos 3D</text>
 	</entry>
 	<entry label="fd_bacon">
 		<text>bacon</text>
@@ -1210,7 +1210,7 @@
 		<text>cappuccino</text>
 	</entry>
 	<entry label="fd_honey">
-		<text>miel</text>
+		<text>miels de papillon</text>
 	</entry>
 	<entry label="fd_bacalhau">
 		<text>morue à la portugaise</text>
@@ -1219,7 +1219,7 @@
 		<text></text>
 	</entry>
 	<entry label="fd_chocolate">
-		<text>chocolat</text>
+		<text>chocolats de pierre</text>
 	</entry>
 	<entry label="fd_fried_potato">
 		<text>frites</text>
@@ -1294,6 +1294,67 @@
 		<text></text>
 	</entry>
 	<entry label="fd_kimuti_tijimi">
+		<text></text>
+	</entry>
+</xmsbt>
+ext>
+	</entry>
+	<entry label="fd_mango">
+		<text>mangues</text>
+	</entry>
+	<entry label="fd_bouillabaisse">
+		<text></text>
+	</entry>
+	<entry label="fd_filet_mignon">
+		<text></text>
+	</entry>
+	<entry label="fd_kr_natume_cha">
+		<text></text>
+	</entry>
+	<entry label="fd_ocha_duke">
+		<text></text>
+	</entry>
+	<entry label="fd_smoked_salmon">
+		<text>saumon fumé</text>
+	</entry>
+	<entry label="fd_gazpacho">
+		<text>gaspacho</text>
+	</entry>
+	<entry label="fd_hummus">
+		<text>houmous</text>
+	</entry>
+	<entry label="fd_sandwich">
+		<text>sandwichs</text>
+	</entry>
+	<entry label="fd_doner_kebap">
+		<text>kebabs</text>
+	</entry>
+	<entry label="fd_lobster">
+		<text></text>
+	</entry>
+	<entry label="fd_fishcake">
+		<text>croquettes de poisson</text>
+	</entry>
+	<entry label="fd_loco_moco">
+		<text></text>
+	</entry>
+	<entry label="fd_karaage_moriawase">
+		<text></text>
+	</entry>
+	<entry label="fd_reba">
+		<text></text>
+	</entry>
+	<entry label="fd_okayu">
+		<text></text>
+	</entry>
+	<entry label="fd_spiced_apple_cider">
+		<text></text>
+	</entry>
+	<entry label="fd_kimuti_tijimi">
+		<text></text>
+	</entry>
+</xmsbt>
+d_kimuti_tijimi">
 		<text></text>
 	</entry>
 </xmsbt>
