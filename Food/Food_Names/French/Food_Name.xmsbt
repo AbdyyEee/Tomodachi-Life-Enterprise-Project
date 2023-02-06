@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-16"?>
+<?xml version="1.0" encoding="utf-16"?>
 <xmsbt>
 	<entry label="fd_shu_cream">
 		<text></text>
@@ -13,7 +13,7 @@
 		<text></text>
 	</entry>
 	<entry label="fd_mashed_potato">
-		<text>Doritos 3D</text>
+		<text>purée de patates</text>
 	</entry>
 	<entry label="fd_brownie">
 		<text></text>
@@ -175,7 +175,7 @@
 		<text></text>
 	</entry>
 	<entry label="fd_karaage">
-		<text>nuggets de poulet</text>
+		<text>poulet frit</text>
 	</entry>
 	<entry label="fd_melon">
 		<text>melon</text>
@@ -232,7 +232,7 @@
 		<text></text>
 	</entry>
 	<entry label="fd_jelly">
-		<text>gelée de slime</text>
+		<text>gelée</text>
 	</entry>
 	<entry label="fd_giri_choco">
 		<text>boîte de chocolats</text>
@@ -316,7 +316,7 @@
 		<text>œuf dur</text>
 	</entry>
 	<entry label="fd_apple">
-		<text>pomme pour Baldi</text>
+		<text>pomme</text>
 	</entry>
 	<entry label="fd_sunflower_seeds">
 		<text>graines de tournesol</text>
@@ -343,7 +343,7 @@
 		<text>fish and chips</text>
 	</entry>
 	<entry label="fd_protein">
-		<text>Crit-a-cola</text>
+		<text>boisson protéinée</text>
 	</entry>
 	<entry label="fd_currypan">
 		<text></text>
@@ -397,13 +397,13 @@
 		<text></text>
 	</entry>
 	<entry label="fd_corn">
-		<text>trombone</text>
+		<text>épi de maïs</text>
 	</entry>
 	<entry label="fd_pekin_duck">
 		<text>canard laqué</text>
 	</entry>
 	<entry label="fd_black_forest_gateau">
-		<text>gâteau diable</text>
+		<text>forêt noire</text>
 	</entry>
 	<entry label="fd_saltimbocca">
 		<text>saltimbocca</text>
@@ -577,7 +577,7 @@
 		<text>gâteau d'anniversaire</text>
 	</entry>
 	<entry label="fd_cutlet">
-		<text>jambon de gobelin</text>
+		<text>côtelette</text>
 	</entry>
 	<entry label="fd_coleslaw">
 		<text></text>
@@ -799,7 +799,7 @@
 		<text>cheesecake</text>
 	</entry>
 	<entry label="fd_potof">
-		<text>curry de fruits de mer jaune</text>
+		<text>pot-au-feu</text>
 	</entry>
 	<entry label="fd_lemonade">
 		<text>limonade</text>
@@ -814,10 +814,10 @@
 		<text>tiramisu</text>
 	</entry>
 	<entry label="fd_brussel_sprouts">
-		<text>Tomodachi Life</text>
+		<text>choux de Bruxelles</text>
 	</entry>
 	<entry label="fd_panini">
-		<text>steak en CGI</text>
+		<text>panini</text>
 	</entry>
 	<entry label="fd_fudge">
 		<text>fudge</text>
@@ -877,7 +877,7 @@
 		<text></text>
 	</entry>
 	<entry label="fd_cola">
-		<text>Bepis</text>
+		<text>cola</text>
 	</entry>
 	<entry label="fd_katudon">
 		<text></text>
@@ -1006,7 +1006,7 @@
 		<text>lait moisi</text>
 	</entry>
 	<entry label="fd_steak">
-		<text>steak de golem</text>
+		<text>steak</text>
 	</entry>
 	<entry label="fd_hot_chocolate">
 		<text>chocolat chaud</text>
@@ -1090,7 +1090,7 @@
 		<text>salade grecque</text>
 	</entry>
 	<entry label="fd_water">
-		<text>larmes de Banshee</text>
+		<text>eau du robinet</text>
 	</entry>
 	<entry label="fd_gingerbread">
 		<text>pain d'épices</text>
@@ -1156,7 +1156,7 @@
 		<text></text>
 	</entry>
 	<entry label="fd_waffle">
-		<text>Belgique sur une assiette</text>
+		<text>gaufre</text>
 	</entry>
 	<entry label="fd_roll_cabbage">
 		<text>chou farci</text>
@@ -1210,7 +1210,7 @@
 		<text>cappuccino</text>
 	</entry>
 	<entry label="fd_honey">
-		<text>miel de papillon</text>
+		<text>miel</text>
 	</entry>
 	<entry label="fd_bacalhau">
 		<text>morue à la portugaise</text>
@@ -1296,8 +1296,14 @@
 	<entry label="fd_kimuti_tijimi">
 		<text></text>
 	</entry>
+</xmsbt>bt>
+d_kimuti_tijimi">
+		<text></text>
+	</entry>
 </xmsbt>
- label="fd_peach">
+xt>
+	</entry>
+	<entry label="fd_peach">
 		<text>pêche</text>
 	</entry>
 	<entry label="fd_mango">
@@ -1352,6 +1358,10 @@
 		<text></text>
 	</entry>
 	<entry label="fd_kimuti_tijimi">
+		<text></text>
+	</entry>
+</xmsbt>bt>
+d_kimuti_tijimi">
 		<text></text>
 	</entry>
 </xmsbt>

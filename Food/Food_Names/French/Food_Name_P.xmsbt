@@ -232,7 +232,7 @@
 		<text></text>
 	</entry>
 	<entry label="fd_jelly">
-		<text>gelées de slime</text>
+		<text>gelées baveuses</text>
 	</entry>
 	<entry label="fd_giri_choco">
 		<text>boîtes de chocolats</text>
@@ -1210,7 +1210,7 @@
 		<text>cappuccino</text>
 	</entry>
 	<entry label="fd_honey">
-		<text>miels de papillon</text>
+		<text>sucs de papillon</text>
 	</entry>
 	<entry label="fd_bacalhau">
 		<text>morue à la portugaise</text>
@@ -1358,3 +1358,4 @@ d_kimuti_tijimi">
 		<text></text>
 	</entry>
 </xmsbt>
+bt>
